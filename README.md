@@ -2,7 +2,7 @@
 ```sh
 make run
 ```
-Then goto http://localhost:12022
+Then goto http://localhost:12022 , browse into /work folder, and launch [Latest_local_situation.ipynb](Latest_local_situation.ipynb)
 
 ### About the data
 The data source is based on the [Latest local situation of COVID-19 (Traditional Chinese)](https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent) published by DATA.GOV.HK
