@@ -1,0 +1,4 @@
+raw/*
+*.csv
+*.h5
+.ipynb_checkpoints/*
